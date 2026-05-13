@@ -10,4 +10,4 @@ dependencies = [
 ]
 
 [project.scripts]
-v2mp4 = "converter:app"
+v2mp4 = "app.converter:app"
