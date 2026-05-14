@@ -7,6 +7,8 @@
 
 > **Effortlessly convert batch videos with real-time progress monitoring.**
 
+![Project CLI Demo](./assets/demo.gif)
+
 ## 📄 Executive Summary
 * ✅ **Concurrent Transcoding Engine:** Engineered a high-performance batch converter using Python's `ThreadPoolExecutor` to handle parallel video processing and maximize CPU utilization.
 * ✅ **Full Containerization:** Implemented a `Docker-based workflow` to encapsulate `FFmpeg` and Python dependencies, ensuring 100% environment consistency and "zero-setup" deployment.
