@@ -8,6 +8,10 @@
 > **Effortlessly convert batch videos with real-time progress monitoring.**
 
 ## 📄 Executive Summary
+* ✅ **Concurrent Transcoding Engine:** Engineered a high-performance batch converter using Python's `ThreadPoolExecutor` to handle parallel video processing and maximize CPU utilization.
+* ✅ **Full Containerization:** Implemented a `Docker-based workflow` to encapsulate `FFmpeg` and Python dependencies, ensuring 100% environment consistency and "zero-setup" deployment.
+* ✅ **CLI Observability:** Developed a robust Command Line Interface with `Typer` and `Rich`, featuring real-time progress tracking, standardized logging, and intuitive user feedback.
+* ✅ **Real-World Solution:** Successfully bypassed cloud converter daily limits and resolved **Adobe Premiere Pro** codec compatibility issues, accelerating the content production pipeline by 5x.
 
 ## 📊 Workflow Diagram
 
@@ -53,12 +57,8 @@ I can now convert entire batches of high-quality video locally—bypassing cloud
 └── README.md           # YOU ARE HERE!
 ```
 
-## ✅ System Requirements
-
 ## 🖥️ User Guide
 
-## 🔥 Skills Demonstrated
-
-## 💡 What I've Learned
+## 🔥 Skills & Takeaways
 
 ## 🚀 Future Improvements
