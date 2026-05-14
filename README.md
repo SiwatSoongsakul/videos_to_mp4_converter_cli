@@ -56,7 +56,7 @@ I can now convert entire batches of high-quality video locally—bypassing cloud
 │   └── converter.py    # main logic for conversion
 ├── .dockerignore       # optimize build context by excluding unnecessary files
 ├── assets/             # assets folder (eg. images)
-│   └── demo.gif        # project demo gif
+│   └── demo_cli.gif    # project demo preview
 ├── .gitignore          # excludes unnecessary files from version control
 ├── Dockerfile          # blueprint for creating image
 ├── pyproject.toml      # cli entry-point configuration
