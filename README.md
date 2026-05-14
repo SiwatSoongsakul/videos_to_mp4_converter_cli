@@ -125,3 +125,10 @@ v2mp4 YOUR_LOCAL_VIDEO_PATH -o "destination_folder_name"
 ## 🔥 Skills & Takeaways
 
 ## 🚀 Future Improvements
+* ☁️ **Cloud Storage Integration:** Add support for `S3/GCS` buckets to transcode directly from the cloud.
+
+* ⚡ **GPU Acceleration:** Implement `NVENC/Hardware acceleration support` for even faster transcoding on compatible machines.
+
+* 🧪 **Automated Testing:** Integrate `Pytest` and `GitHub Actions` for continuous integration and automated Docker builds.
+  
+* 📂 **Smart Sorting:** Add `AI-based video categorization` before transcoding based on file metadata.
